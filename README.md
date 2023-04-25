@@ -15,7 +15,6 @@
 
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoinssi&show_icons=true&theme=onedark) 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iniyo01)](https://solved.ac/iniyo01)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoinssi&layout=compact&theme=dark)
 
